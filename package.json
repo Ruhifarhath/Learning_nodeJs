@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.4",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "learning backend",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruhi Farhath",
+  "license": "ISC"
+}
